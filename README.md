@@ -1,2 +1,2 @@
 # interview-practice
-My Cracking the Coding Interview solutions in Java
+My solutions to Cracking the Coding Interview in Java
