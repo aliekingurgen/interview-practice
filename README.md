@@ -1,4 +1,4 @@
 # Interview Practice
 **Includes:**
 
-My Cracking the Coding Interview solutions in Java
+My Cracking the Coding Interview Solutions in Java
